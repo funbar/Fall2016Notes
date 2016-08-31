@@ -20,3 +20,8 @@ Notes for classes (202)
 - Class diagrams are the most widely used and known
 - Italics represent an abstract class
 - Multiplicities: 1 is exactly one, * is many (zero or more), 0..1 is optional (zero or one), m..n is numerically specified.
+
+# 08/31/16 (202)
+
+- In Bootstrap, the Body can have multiple containers. These containers can have multiple rows that define the column #.
+-  
