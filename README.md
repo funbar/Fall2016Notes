@@ -24,4 +24,15 @@ Notes for classes (202)
 # 08/31/16 (202)
 
 - In Bootstrap, the Body can have multiple containers. These containers can have multiple rows that define the column #.
--  
+
+# JQUERY
+
+```
+$(this).hide() - hides the current element.
+
+$("p").hide() - hides all <p> elements.
+
+$(".test").hide() - hides all elements with class="test".
+
+$("#test").hide() - hides the element with id="test".
+```
