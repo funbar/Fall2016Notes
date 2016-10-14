@@ -19,7 +19,21 @@
 ##### Dashboard
 - Displays a graph visual, kind of like Github which allows others to monitor how the sprints are being handled. Also shows an overview of the project description, release vision, retrospective, activity log, etc.
 
+### Questions and Topics for Midterm #1
 
+- The Classic Waterfall Model
+- The V model
+- Activity Diagram 
+### Iterative Approaches
+- Boehm's Spiral Model
+- Unified Process
+
+### Agile Development
+- Embrace change, rather than fear it
+- Development in small chunks without planning the whole project out. Do it as you go.
+- Incremental functionality delivered as the project proceeds
+- Rapid development methods
+- More suitable for small teams working on shorter-term projects
 
 
 
