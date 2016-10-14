@@ -28,7 +28,11 @@
 - A:
 - Q&A: -|> is arrow for inheritance
 
+- Q:What type of diagram is nearly equivalent to a sequence diagram?
+- A:Communication diagram
 
+- Q:What is the first step in developing tasks for a new scenario in iceScrum
+- A:
 
 
 ### Topics for Midterm #1
@@ -49,15 +53,28 @@
 
 - Rugby method is moving forward in a series of sprints.
 
-# Use Case Diagram
+### Use Case Diagram
 - AKA Scenario diagrams
 
 - Scenarios are informal stories written in a narrative fashion. They help convey a general understanding
 - Use Cases are more formal
 
+### Sequence Diagrams 
 
+- document the steps taken during a single use case
 
+### Communication Diagrams
 
+- AKA collaboration diagrams
+- Same info as a sequence diagram
+
+### Requirements
+- Specific, detailed, unambiguous specifications of the features
+- Often used as a contract between others
+- Functional Requirements specify features the SW must perform
+- Non-Function Requirements specify other properties the system must have
+- WHAT versus HOW the product does it
+- Constraints are a requirement set by the client before the project. ie. budget, space
 
 
 ### 08/22/16
