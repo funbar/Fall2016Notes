@@ -44,3 +44,5 @@ $("#test").hide() - hides the element with id="test".
 #id	    $("#lastname")	The element with id="lastname"
 .class	$(".intro")	All elements with class="intro"
 ```
+
+
