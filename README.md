@@ -45,4 +45,21 @@ $("#test").hide() - hides the element with id="test".
 .class	$(".intro")	All elements with class="intro"
 ```
 
+### IceScrum
+##### Sprint Plan
+- View/Create Tasks and move them around accordingly
 
+##### Release Plan
+- Displays all springs and statuses of where they currently are
+
+##### Timeline
+- Shows a more undefined/vague overview of the whole project. This includes the sprint numbers and the project.
+
+##### Product Backlog
+- Contains stories which have been accepted by the product owner.
+
+##### Sandbox
+- Stories go into the sandbox 
+
+##### Dashboard
+- Displays a graph visual, kind of like Github which allows others to monitor how the sprints are being handled. Also shows an overview of the project description, release vision, retrospective, activity log, etc.
