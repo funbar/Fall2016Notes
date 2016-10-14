@@ -19,7 +19,14 @@
 ##### Dashboard
 - Displays a graph visual, kind of like Github which allows others to monitor how the sprints are being handled. Also shows an overview of the project description, release vision, retrospective, activity log, etc.
 
-### Questions and Topics for Midterm #1
+### Questions for Midterm #1
+
+- Q:What is the key feature that distinguishes agile development methods from more traditional classical Software Engineering approaches?
+- A: Lecture #1
+
+
+
+### Topics for Midterm #1
 
 - The Classic Waterfall Model
 - The V model
@@ -35,12 +42,14 @@
 - Rapid development methods
 - More suitable for small teams working on shorter-term projects
 
+- Rugby method is moving forward in a series of sprints.
 
 
 
 
 
-- 08/22/16
+
+### 08/22/16
 Notes for classes (202)
 - HTML - Hyper - Text markup language -> structure and content
 - CSS - Cascading Style Sheets -> Style and Position
