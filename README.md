@@ -24,6 +24,11 @@
 - Q:What is the key feature that distinguishes agile development methods from more traditional classical Software Engineering approaches?
 - A: Lecture #1
 
+- Q:What is shown in a UML use-case diagram?
+- A:
+- Q&A: -|> is arrow for inheritance
+
+
 
 
 ### Topics for Midterm #1
@@ -43,6 +48,12 @@
 - More suitable for small teams working on shorter-term projects
 
 - Rugby method is moving forward in a series of sprints.
+
+# Use Case Diagram
+- AKA Scenario diagrams
+
+- Scenarios are informal stories written in a narrative fashion. They help convey a general understanding
+- Use Cases are more formal
 
 
 
