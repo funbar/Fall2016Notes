@@ -1,5 +1,6 @@
 # Fall2016Notes
 
+
 ### IceScrum
 ##### Sprint Plan
 - View/Create Tasks and move them around accordingly
