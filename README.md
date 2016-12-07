@@ -77,6 +77,13 @@
 - Singleton: Ensure a class has only one instance
 
 ##### Structural Patterns
+- Adapter: Convert interface into another interface. Point is to make the new interface compatible with the new/old system.
+- Bridge: Decouple abstraction to from implementation so two can work independently.
+- Composite: Compose objects into tree structures
+- Decorator: Attach additional responsibilities to an object dynamically
+- Facade: Provide a unified interface for a set of interfaces. 
+- Flyweight: Use sharing to support large numbers of fine-grained objects
+- Proxy: Allow another surrogate or placeholder to control access to an object.
 
 ### Questions for Midterm #1
 
