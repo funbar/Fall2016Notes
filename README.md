@@ -85,6 +85,14 @@
 - Flyweight: Use sharing to support large numbers of fine-grained objects
 - Proxy: Allow another surrogate or placeholder to control access to an object.
 
+##### Behavioral Patterns
+- Chain of Responsibility: Giving more than one object a chance to handle requests
+- Command: Encapsulate a request ie. undo, redo, and support undoable operations
+- Interpreter: Define a representation for the grammar and also interpret sentences using the grammar.
+- Iterator: Access the elements of an aggregate object ithout exposing underlying representations.
+- Mediator: An object that encapsulates how a set of objects interact
+- Memento: Doesn't violate encapsulation and externalizes object's internal state.
+
 ### Questions for Midterm #1
 
 
