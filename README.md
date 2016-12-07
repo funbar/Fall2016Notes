@@ -32,7 +32,13 @@
 - Royce's Methodology (based on Unified Process) uses visual modeling languages such as UML.
 - Principles of Extreme Programming is basically meant to seize the day: Quality work the first time without going back and fixing things later, design focuses on current requirements without concerning the future, and also testing confronting issues early on. 
 - A Document Rationale is used people sometimes new people might join the project. They need to be told how the system is built and WHY it is built like that. Also, they need to know what ideas have been considered and rejected, too.
-
+- Steps for capturing a rationale: 
+  -> identify the issues 
+  -> proposals address the issues 
+  -> criterion is used to evaluate proposals 
+  -> arguments advocate for or against different proposals based on criteria 
+  -> resolutions document final decisions and resolve issues 
+  -> Action items document what is to be done to implement resolutions
 
 ### Questions for Midterm #1
 
