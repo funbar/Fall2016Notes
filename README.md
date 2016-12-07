@@ -130,6 +130,8 @@
 - Non-Function Requirements specify other properties the system must have
 - WHAT versus HOW the product does it
 - Constraints are a requirement set by the client before the project. ie. budget, space
+- Design goals are properties that are desirable to optimize without limits.
+
 
 # 08/31/16 (440)
 
