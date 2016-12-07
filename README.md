@@ -84,6 +84,8 @@
 - AKA collaboration diagrams
 - Same info as a sequence diagram
 
+##### Older stuff is below this line
+
 ### Requirements
 - Specific, detailed, unambiguous specifications of the features
 - Often used as a contract between others
