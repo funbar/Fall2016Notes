@@ -34,12 +34,12 @@
 - A Document Rationale is used people sometimes new people might join the project. They need to be told how the system is built and WHY it is built like that. Also, they need to know what ideas have been considered and rejected, too.
 - Steps for capturing a rationale: 
 
-   identify the issues 
-   proposals address the issues 
-   criterion is used to evaluate proposals 
-   arguments advocate for or against different proposals based on criteria 
-   resolutions document final decisions and resolve issues 
-   Action items document what is to be done to implement resolutions
+  1. identify the issues 
+  2. proposals address the issues 
+  3. criterion is used to evaluate proposals 
+  4. arguments advocate for or against different proposals based on criteria 
+  5. resolutions document final decisions and resolve issues 
+  6. Action items document what is to be done to implement resolutions
 
 ### Questions for Midterm #1
 
