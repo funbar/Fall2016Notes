@@ -22,13 +22,15 @@
 
 ### Final Exam
 
-- A Work Breakdown Structure divides work into manageable pieces.
-- Gantt Charts illustrate project schedules through horizontal lines.
+- A Work Breakdown Structure (WBS) divides work into manageable pieces.
+- Gantt Charts illustrate project schedules by using horizontal lines.
 - Entity-Centered models need to have all issues in one category to be closed before any in the next category can be opened. Kind of like traveling together to the next destination with everyone's approval and without leaving anyone behind.
 - No process is ideal or pure; in reality, real processes are a hybrid mix which takes different ideas from the models.
 - Methodology is a collection of methods and tools for developing and managing a software system. 
 - Proxy Client has knowledge but no authority
 - Pseudo client has authority but no knowledge
+- Royce's Methodology (based on Unified Process) uses visual modeling languages such as UML.
+- Principles of Extreme Programming is basically meant to seize the day: Quality work the first time withot
 
 ### Questions for Midterm #1
 
