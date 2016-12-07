@@ -20,7 +20,18 @@
 ##### Dashboard
 - Displays a graph visual, kind of like Github which allows others to monitor how the sprints are being handled. Also shows an overview of the project description, release vision, retrospective, activity log, etc.
 
+### Final Exam
+
+- A Work Breakdown Structure divides work into manageable pieces.
+- Gantt Charts illustrate project schedules through horizontal lines.
+- Entity-Centered models need to have all issues in one category to be closed before any in the next category can be opened. Kind of like traveling together to the next destination with everyone's approval and without leaving anyone behind.
+- No process is ideal or pure; in reality, real processes are a hybrid mix which takes different ideas from the models.
+- Methodology is a collection of methods and tools for developing and managing a software system. 
+- Proxy Client has knowledge but no authority
+- Pseudo client has authority but no knowledge
+
 ### Questions for Midterm #1
+
 
 - Q:What is the key feature that distinguishes agile development methods from more traditional classical Software Engineering approaches?
 - A: Lecture #1
