@@ -55,6 +55,19 @@
 - Black box -> Opaque - Acceptance tests are typically black boxes
 - White box -> Transparent - Unit tests may be black or white boxes
 - Equivalence Class is a range of input values for which the results are expected to be equivalent.
+- Boundary Testing recognizes that errors most commonly occur at the boundary of equivalence classes.
+
+##### Different types of testing
+- Statement testing - test every executable line of code
+- Branch testing - test every branch at every decision point
+- Condition testing - test every condition in true and false cases
+- Path testing - test all paths in flowchart
+- Big Bang - Test everything at once.
+- Functional testing - tests functional requirements
+- Usability testing - tests user interface
+- Performance testing - push the limits
+- Regression testing - involves re-testing things that used to work, after other changes are made.
+- Automating testing - supports frequent regression testing
 
 
 ### Questions for Midterm #1
