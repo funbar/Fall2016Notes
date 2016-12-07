@@ -40,6 +40,22 @@
   4. arguments advocate for or against different proposals based on criteria 
   5. resolutions document final decisions and resolve issues 
   6. Action items document what is to be done to implement resolutions
+  
+- The three parts to design goals are Availability, Security and Usability.
+- There are four transformations between model and code. 
+
+  1. Model Transformation improves the model, independent of any code.
+  2. Refactoring improves the code, independent of any models.
+  3. Reverse Engineering generates models from code.
+  4. Forward Engineering transforms models into code.
+  
+- Oracle is a means of determining what the correct results of a test should be.
+- Inspections can help find more than one error at a time, can find more faults faster and can analyze good styles and practices.
+- Inspections DO NOT replace testing.
+- Black box -> Opaque - Acceptance tests are typically black boxes
+- White box -> Transparent - Unit tests may be black or white boxes
+- Equivalence Class is a range of input values for which the results are expected to be equivalent.
+
 
 ### Questions for Midterm #1
 
