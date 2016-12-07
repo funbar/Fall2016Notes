@@ -69,6 +69,14 @@
 - Regression testing - involves re-testing things that used to work, after other changes are made.
 - Automating testing - supports frequent regression testing
 
+##### Creational Patterns
+- Abstract Factory: create related or dependent objects without specifying their concrete classes
+- Builder: Deconstruct a complex object and use the construction of that to create different representations
+- Factory Method: Define and interface for creating an object but let subclasses choose which classes to create
+- Prototype: Specify objects to create a prototype and copy this instance to create new objects
+- Singleton: Ensure a class has only one instance
+
+##### Structural Patterns
 
 ### Questions for Midterm #1
 
